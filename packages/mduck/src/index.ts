@@ -1,0 +1,1 @@
+console.log("Quack, quak!");
